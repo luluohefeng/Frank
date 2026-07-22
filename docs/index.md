@@ -5,6 +5,8 @@
 
 [点击查看 “markdown文档速成”](./markdown.md)
 
+[点击查看 “提交代码”](./submit.md)
+
 
 
 
