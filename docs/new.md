@@ -1,5 +1,13 @@
 # vscode: Visual Studio Code 常用快捷键 
 
+<details markdown="block">
+  <summary>✳️ 目录</summary>
+- TOC
+{:toc}
+</details>
+
+---
+
 ## 主命令框
 
 F1 或 Ctrl+Shift+P: 打开命令面板。在打开的输入框内，可以输入任何命令，例如：
