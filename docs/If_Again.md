@@ -10,7 +10,7 @@ body {
 
 # 学习建立一个网站
 
-## 我希望你最后得到的不是“会跟着教程部署一个网站”，而是真的理解一个网站为什么能运行。
+### 我希望你最后得到的不是“会跟着教程部署一个网站”，而是真的理解一个网站为什么能运行。
 
 <details markdown="block">
   <summary>✳️ 目录</summary>
@@ -22,7 +22,7 @@ body {
 
 ## 网站建立的主要方式
 
-目前主流有 5 种方式：
+💡 目前主流有 5 种方式：
 
 1. 手写代码开发
 2. 使用网站构建工具
@@ -38,7 +38,7 @@ body {
 - CSS
 - JavaScript
 
-我们的Frank AI Lab属于代码开发方式。[点击查看Frank AI Lab](https://luluohefeng.github.io/Frank-AI-Lab/)
+🤖 我们的Frank AI Lab属于代码开发方式。[点击查看Frank AI Lab](https://luluohefeng.github.io/Frank-AI-Lab/)
 
 自由度大，但是开发周期长，维护成本高。
 
@@ -50,7 +50,7 @@ body {
 - 个人主页
 - 活动页面
 
-类似 PPT 制作，几小时可以完成网站，不需要编程知识。但是定制能力有限。
+🎮 类似 PPT 制作，几小时可以完成网站，不需要编程知识。但是定制能力有限。
 
 上传PDF
 
