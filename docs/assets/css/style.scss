@@ -1,1 +1,18 @@
+We need to apply the suggested edit to the original code. The original has url('/Frank/assets/image/beijingtu.png') and the suggested edit changes it to url('../image/beijingtu.png'). So we replace that line. The rest remains unchanged. Output only the modified code.
+
+Note: The original code uses single quotes and backticks? Actually it's just single quotes. The suggested edit also uses single quotes. So we output:
+
+body {
+  background-image: url('../image/beijingtu.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+We must preserve all unchanged code exactly. The original had indentation with two spaces? Actually it shows as two spaces. The suggested edit also shows two spaces. So keep that.body {
+  background-image: url('../image/beijingtu.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 
