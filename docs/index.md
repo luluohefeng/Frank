@@ -23,6 +23,8 @@
 
 [点击查看 “If建立一个网站”](./If_Again.md)
 
+[点击查看 “Frank的人工智能实验室”](https://luluohefeng.github.io/Frank-AI-Lab/)
+
 
 ## 时间和地点
 
