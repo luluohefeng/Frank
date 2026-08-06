@@ -17,6 +17,10 @@ body {
 
 ---
 
+### C/C++掌握后怎么转Python
+
+🥺 [点击查看](./python.md)
+
 ### VScode常用快捷键使用
 
 😎 [点击查看](./new.md)
