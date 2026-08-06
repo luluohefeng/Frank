@@ -1,20 +1,4 @@
-<style>
-body {
-  background-image: url('/Frank/assets/image/beijingtu2.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  min-height: 100vh;
-}
-</style>
-
-# vscode: Visual Studio Code 常用快捷键 
-
-<details markdown="block">
-  <summary>✳️ 目录</summary>
-- TOC
-{:toc}
-</details>
+# vscode: Visual Studio Code 常用快捷键
 
 ---
 

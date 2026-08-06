@@ -1,13 +1,3 @@
-<style>
-body {
-  background-image: url('/Frank/assets/image/beijingtu2.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  min-height: 100vh;
-}
-</style>
-
 # 提交代码
 
 打开 powershell，进入项目目录

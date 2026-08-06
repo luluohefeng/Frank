@@ -1,35 +1,24 @@
+﻿# 🏆 Frank 的学习笔记
 
-<style>
-body {
-  background-image: url('/Frank/assets/image/beijingtu.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  min-height: 100vh;
-}
-</style>
-
-<details markdown="block">
-  <summary>✳️ 目录</summary>
-- TOC
-{:toc}
-</details>
+> 🃏 这是一个使用 [Docsify](https://docsify.js.org) 构建的魔法文档站点
 
 ---
 
-### C/C++掌握后怎么转Python
+## 📚 学习笔记
+
+### C/C++ 掌握后怎么转 Python
 
 🥺 [点击查看](./python.md)
 
-### VScode常用快捷键使用
+### VSCode 常用快捷键使用
 
 😎 [点击查看](./new.md)
 
-### markdown文档速成
+### Markdown 文档速成
 
 ⚙️ [点击查看](./markdown.md)
 
-### 在powershell中提交代码到指定仓库
+### 在 PowerShell 中提交代码到指定仓库
 
 🏆 [点击查看](./submit.md)
 
@@ -37,11 +26,8 @@ body {
 
 🥺 [点击查看](./If_Again.md)
 
-### Frank的人工智能实验室
+## 🔗 更多链接
 
-💻 [点击查看Frank AI Lab](https://luluohefeng.github.io/Frank-AI-Lab/)
+### Frank 的人工智能实验室
 
-
-
-
-
+💻 [点击查看 Frank AI Lab](https://luluohefeng.github.io/Frank-AI-Lab/)

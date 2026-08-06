@@ -1,22 +1,6 @@
-<style>
-body {
-  background-image: url('/Frank/assets/image/beijingtu2.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  min-height: 100vh;
-}
-</style>
-
 # 学习建立一个网站
 
 ### 我希望你最后得到的不是“会跟着教程部署一个网站”，而是真的理解一个网站为什么能运行。
-
-<details markdown="block">
-  <summary>✳️ 目录</summary>
-- TOC
-{:toc}
-</details>
 
 ---
 

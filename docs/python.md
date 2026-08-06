@@ -1,10 +1,4 @@
-# C/C++掌握后怎么转Python
-
-<details markdown="block">
-  <summary>✳️ 目录</summary>
-- TOC
-{:toc}
-</details>
+# C/C++ 掌握后怎么转 Python
 
 ## 第一天
 

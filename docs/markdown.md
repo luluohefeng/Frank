@@ -1,13 +1,3 @@
-<style>
-body {
-  background-image: url('/Frank/assets/image/beijingtu2.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  min-height: 100vh;
-}
-</style>
-
 # markdown 文档速成
 
 ## 学习连接引入
