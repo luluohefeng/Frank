@@ -1,6 +1,12 @@
 - [🏠 首页](index.md)
 
 - 📚 **学习笔记**
+  - [Web 通识](web.md)
+    - [须知](web.md#须知)
+    - [单体架构与微服务架构](web.md#单体架构与微服务架构)
+      - [微服务架构](web.md#微服务架构)
+      - [单体架构](web.md#单体架构)
+    - [后端发展](web.md#后端发展)
   - [C/C++ 转 Python](python.md)
     - [第一天](python.md#第一天)
   - [VSCode 常用快捷键](new.md)
@@ -27,6 +33,7 @@
     - [明确目标](If_Again.md#明确目标)
     - [第一步：HTML（结构）+CSS（样式）](If_Again.md#第一步html结构css样式)
     - [须知](If_Again.md#须知)
+  - [如何使用 ponder](ponder.md)
 
 - 🔗 **更多链接**
   - [Frank AI Lab](https://luluohefeng.github.io/Frank-AI-Lab/)
